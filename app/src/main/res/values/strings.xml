@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aplicacion para Coursera</string>
+    <string name="text_button_fecha">Ir a Calendario</string>
+    <string name="text_button_siguiente">Siguiente</string>
+
+    <string name="tiet_nombre">Nombre Completo</string>
+    <string name="tiet_fecha">Fecha</string>
+    <string name="tiet_telefono">Telefono</string>
+    <string name="tiet_e_mail">E-Mail</string>
+    <string name="tiet_descripcion">Descripcion</string>
+    <string name="accion_desconocida">Accion Desconocida</string>
+    <string name="editar">editar</string>
+
+    <string name="parametro_nombre">nombre</string>
+    <string name="parametro_fecha">fecha</string>
+    <string name="parametro_telefono">telefono</string>
+    <string name="parametro_e_mail">e-mail</string>
+    <string name="parametro_descripcion">descripcion</string>
+
+    <string name="editar_nombre">nombre</string>
+    <string name="editar_fecha">fecha</string>
+    <string name="editar_telefono">telefono</string>
+    <string name="editar_e_mail">e-mail</string>
+    <string name="editar_descripcion">descripcion</string>
+</resources>
